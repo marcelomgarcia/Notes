@@ -3,7 +3,7 @@ Notes about system administration on different systems, like linux clusters or C
 
 ## System administration
 
-Managing Linux clusters, Cray systes, and external nodes using Bright Cluster Manager (BCM). 
+Managing Linux clusters, Cray systems, and external nodes using Bright Cluster Manager (BCM). 
 
 On Cray systems before CLE 6, there was an interested concept of _shared-root_ file system that was exported that was exported from the _boot_ node and it's mounted _read-only_ by the nodes.
 
